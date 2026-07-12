@@ -50,7 +50,7 @@ def greet(name):
 greet("Python")
 ```
 
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
+1.  > Go to [documentation  j'ai enfn compris ](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
 
     Code annotations allow to attach notes to lines of code.
 
