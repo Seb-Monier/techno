@@ -63,7 +63,7 @@ Code can also be highlighted inline: `#!python print("Hello, Python!")`.
 === "Python"
 
     ``` python
-    print("Hello from Python!")
+    print("Hello from Python! et voila")
     ```
 
 === "Rust"
