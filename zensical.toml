@@ -11,18 +11,18 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation"
+site_name = "Platerformes Techniques"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "Aide a l'utiliseation des technologies disponible dans les plateformes techniques"
 
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "<your name here>"
+site_author = "<Monier Sebastien>"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
@@ -34,7 +34,7 @@ site_url = "https://seb-monier.github.io/test_site"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 Monier Sebastien
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -44,10 +44,31 @@ Copyright &copy; 2026 The authors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  #{ "Index" = "index.md" },
+  { "Accueil" = [
+    { "Accueil" = "index.md" },
+      { "Nos Téchnologies" = [
+      { "Impresion 3D / Fabiration addiditve" = "technologies/impression3d.md"},
+      { "Découpe Lasser / Jet d'eau" = "technologies/decoupe-laser.md"},
+      { "Usinage" = "technologies/usinage.md"},
+      { "Eléctronique" = "technologies/electronique.md"},
+      { "Recyclage" = "technologies/recyclage.md"},
+      ]},
+  ]},
+  { "Impression 3D" =[
+    { "Debuter" = "impression3d/debuter.md" },
+    { "Pour aller plus loin" = "impression3d/pour_aller_plus_loin.md" },
+    { "Les bases de l'impression 3D" = "impression3d/les-bases-de-limpression-3d.md" },
+    { "Documentations" = "impression3d/documentations_imp3d.md" },
+  ]},
+  { "Fusion 360" =[
+    { "Installation" = "fusion360/installation.md" },
+    { "Environement de travail" = "fusion360/envirenoment.md" },
+  ]},
+  { "Markdown in 5min" = "markdown.md" },
+  { "Index" = "first_index.md" },
+ ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -174,7 +195,7 @@ features = [
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.
     # https://zensical.org/docs/setup/footer/#navigation
-    "navigation.footer",
+    # "navigation.footer",
 
     # When section index pages are enabled, documents can be directly attached
     # to sections, which is particularly useful for providing overview pages.
@@ -215,12 +236,12 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.
@@ -241,7 +262,7 @@ features = [
     # When anchor following for the table of contents is enabled, the sidebar
     # is automatically scrolled so that the active anchor is always visible.
     # https://zensical.org/docs/setup/navigation/#anchor-following
-    # "toc.follow",
+    #"toc.follow",
 
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
@@ -347,3 +368,4 @@ combine_header_slug = true
 [project.markdown_extensions.pymdownx.tasklist]
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.zensical.extensions.glightbox]

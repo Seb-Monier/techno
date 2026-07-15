@@ -1,0 +1,6 @@
+Zensical Studio
+GitHub Actions
+French language pack
+Even better toml
+
+theme: Atom one dark
