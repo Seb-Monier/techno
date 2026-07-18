@@ -57,9 +57,9 @@ nav = [
       ]},
   ]},
   { "Impression 3D" =[
-    { "Debuter" = "impression3d/debuter.md" },
-    { "Pour aller plus loin" = "impression3d/pour_aller_plus_loin.md" },
+    { "Démarrage rapide" = "impression3d/demarrage_rapide.md" },
     { "Les bases de l'impression 3D" = "impression3d/les-bases-de-limpression-3d.md" },
+    { "Où trouver des models 3D" = "impression3d/ou_trouver_des_models_3d.md" },
     { "Documentations" = "impression3d/documentations_imp3d.md" },
   ]},
   { "Fusion 360" =[

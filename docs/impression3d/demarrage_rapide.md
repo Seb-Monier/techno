@@ -1,5 +1,5 @@
 # Démarrage rapide avec les imprimantes 3D
-##Téléchargement du model 3D
+## I.Téléchargement du model 3D
 
 Pour commencer, vous aurez besoin d'un model 3D.  
 Vous pouvez telecharger ce fichier: [Flexagon.stl](flexagon.stl)  
@@ -7,7 +7,7 @@ Ou sur l'un des sites de partage de models 3D: [Où trouver des models 3D ?](ou_
  
 ---
  
-##Installation et configuration de Bambu Studio
+## II.Installation et configuration de Bambu Studio
 
 #### 1. Télécharger et intsaller  <a href="https://bambulab.com/download" target="_blank" rel="noopener noreferrer"> Bambu Studio </a>  
 A la première ouverture de Bambu Studio, vous serez invité à sélectionner diffèrent paramètres. 
@@ -63,7 +63,7 @@ Cliquer sur l'icone de l'imprimante 3D et selectioner l'imprimante **X1 Carbon**
 ---
  
 #### 4. Ajouter le modèle précédemment télécharger 
-Si ce n'est pas fait : [Téléchargement du model 3D](#telechargement-du-model-3d)
+Si ce n'est pas fait : [Téléchargement du model 3D](#itelechargement-du-model-3d)
 
 Dans la barre d'outils supérieure, cliquez sur l'icône **ajouter** pour importer le modèle 3D.  
 Vous pouvez également  faire un glisser-déposer.  
@@ -117,7 +117,7 @@ Enregistrer le fichier .3mf sur votre ordinateur.
 
 ---
 
-## 3D Printer OS
+## III. 3D Printer OS
 
 L'envoie du fichier à l'imprimante 3D se fait via le serveur 3D Printer OS.
 
@@ -134,19 +134,61 @@ Demander le code d'accès au responsable.
 ![](images/3dprinteros/workgroup.jpeg)
 
 ---
+
 ### 3. Ajout du fichier d'impression à 3D Printer OS
+
+Dans l'onglet **Projects**, cliquez sur **Add files**.  
+Selectez le fichier .3mf, precedemnt exporté de Bambu Stodio.    
+
+![](images/3dprinteros/add-files.jpeg)
+
+---
 
 ### 4. L'ancement de l'impression
 
-### 5. Préparation de l'imprimante 3D
+Aprés avoir chargé le fichier, cliquez sur **Print**.  
 
-Vérifier sur l'imprimante 3D :  
-- Que le plateau d'impression est vide est sans résidu  
-- Que le plateau soit bien positionner  
-- Que rien ne gènes les axes  
-- Que la quantité de filaments est suffisante pour votre impression (voir onglet aperçu de Bambu Studio)  
+![](images/3dprinteros/print.jpeg)
 
-### 6. Previnir 
-**Apres le démarrage de l'impression il faut impérativement rester pour vérifier les premières couches d'impression.**  
-C'est souvent à ce moment que l'on détecté les problèmes d'impression.
+
+Sélectioner l'imprimante 3D qui vous conviens.  
+Puis cliquer sur **Queue**
+
+![](images/3dprinteros/select-printer.jpeg) 
+
+Sélectioner la matière et la couleur à utiliser.
+Puis cliquer sur **Queue**
+
+![](images/3dprinteros/queue.jpeg)
+
+
+---
+
+## IV. Préparation de l'imprimante 3D
+
+Vérifier sur l'imprimante 3D :
+
+ - [x]  Que le plateau d'impression est vide est sans résidu
+ - [x] Que le plateau soit bien positionner  
+ - [x] Que rien ne gènes les axes  
+ - [x] Que la quantité de filaments est suffisante pour votre impression,  
+ *voir onglet aperçu de Bambu Studio* 
+
+
+<font size="6"> **:warning: Prévenir un responsable pour qu'il puisse valider l'impression et l'envoyer en production. :warning:** </font>
+
+:warning: **Rester impérativement, pour vérifier les premières couches d'impression.** :warning:  
+C'est souvent à ce moment que l'on détecte les problèmes d'impression.
+ ---
+
+## V. Recupération de votre impression 3D
+
+Une fois l'impresion terminié: 
+Ouvrer la porte et decoler  les trait de calibration sur le devant du plateau
+Puis decoler votre pieces 
+Si la pieces a du male à ce decoller demander l'aide d'un respossable.  
+
+Si vous voulez en savoir plus sur l'imression 3D --> [Les bases de l'impression 3D](les-bases-de-limpression-3d.md) 
+
+
 

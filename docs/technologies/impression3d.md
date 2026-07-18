@@ -3,7 +3,7 @@
 L'impression 3D, aussi appelée **fabrication additive** dans l'industrie, est un procédé de production qui crée des objets physiques tridimensionnels par ajout de matière couche par couche.<br>
 Cette technologie permet de réaliser des géométries complexes, des structures légères et des pièces personnalisées sans nécessiter de moules ou d'outillage spécifique, contrairement aux méthodes traditionnelles dites « soustractives » qui enlèvent de la matière à un bloc ou d'injetion qui envoie de la matière dans un moule.
 
-**[Guide pour un démarrage rapide avec les imprimantes 3D](../impression3d/debuter.md)**
+**[Guide pour un démarrage rapide avec les imprimantes 3D](../impression3d/demarrage_rapide.md)**
 
 ##Principaux aspects :
 
