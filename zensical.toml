@@ -66,8 +66,9 @@ nav = [
     { "Installation" = "fusion360/installation.md" },
     { "Environement de travail" = "fusion360/envirenoment.md" },
   ]},
-  { "Markdown in 5min" = "markdown.md" },
-  { "Index" = "first_index.md" },
+  { "Fiches de sécurité" = { "url" = "https://github.com/Seb-Monier/Fiches_de_securite/tree/main/Fiches%20securit%C3%A9" } },
+  #{ "Markdown in 5min" = "markdown.md" },
+  #{ "Index" = "first_index.md" },
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
