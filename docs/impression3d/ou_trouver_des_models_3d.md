@@ -4,7 +4,7 @@ Le moyen le plus facile pour débuter dans l'impression 3D consiste à trouver d
 Ils se présentent habituellement sous la forme de fichiers au format .stl, .obj, .3mf, .step. 
 Parcourez les sites pour decouvrir de nombreuse posbilitées.  
 
-### ![](icons/makerworld.svg) [Makerworld](https://www.makerworld.com/)
+### [Makerworld](https://www.makerworld.com/)
 Plateforme de Bambu Lab, nessecite une inscription. 
 Trés grosse communauté,  les fichier sont prés parametrer pour les Bambulab  
 La Partie Makerlab permet de générer des modèles 3D à partir de simples photos, de descriptions textuelles ou de paramtre pres defini.
