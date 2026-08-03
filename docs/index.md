@@ -6,7 +6,7 @@ hide:
 
 #Bienvenue
 
- test Vous pourez retrouver ici toutes les informations concernant les platerfomes technologique a votre disposition et des aides pour l'utilisation des machines.
+Vous pourez retrouver ici toutes les informations concernant les platerfomes technologique a votre disposition et des aides pour l'utilisation des machines.
 
 Les espaces sont diponible pour tous les membres de l'organsation.
 
