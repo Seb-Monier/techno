@@ -29,7 +29,7 @@ Toutes ces applications vous permettent de créer un modèle et de l'exporter po
 Si vous voulez commencer à modéliser des objets fonctionelle , ou bien avec différents éléments destinés à s'assembler, Fusion 360 est une option populaire.   
 Les utilisateurs peuvent travailler à la fois CAO (Conception Assistée par Ordinateur), en FAO (Fabrication Assistée par Ordinateur)  , analyser des forces, crer des carte electroniques.   
 Fusion 360 offre non seulement une possibilité de modélisation paramétrique, mais permet également la sculpture.  
-**[Débuter sur Fusion 360](../fusion360/envirenoment.md)**
+**[Débuter sur Fusion 360](../fusion360/1er-pas-fusion-360.md)**
 
 #### Tinkercad
 

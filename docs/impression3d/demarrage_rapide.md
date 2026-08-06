@@ -1,5 +1,5 @@
 # Démarrage rapide avec les imprimantes 3D
-## I.Téléchargement du modèle 3D
+## I. Téléchargement du modèle 3D
 
 Pour commencer, vous aurez besoin d'un modèle 3D.  
 Vous pouvez télécharger ce fichier: [Flexagon.stl](stl/flexagon.stl)  
@@ -7,7 +7,7 @@ Ou sur l'un des sites de partage de modèles 3D: [Où trouver des modèles 3D ?]
  
 ---
  
-## II.Installation et configuration de Bambu Studio
+## II. Installation et configuration de Bambu Studio
 
 #### 1. Télécharger et installer  <a href="https://bambulab.com/download" target="_blank" rel="noopener noreferrer"> Bambu Studio </a>  
 A la première ouverture de Bambu Studio, vous serez invité à sélectionner différents paramètres. 

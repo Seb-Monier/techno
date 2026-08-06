@@ -1,4 +1,4 @@
-Le Fablab dispose du matériel électronique nécessaire pour le prototypage de montage simple.
+L'atelier dispose du matériel électronique nécessaire pour le prototypage de montage simple.
 
 Fer à souder, oscilloscope, alimentation et composants sont mis à votre disposition.
 

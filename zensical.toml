@@ -64,7 +64,8 @@ nav = [
   ]},
   { "Fusion 360" =[
     { "Installation" = "fusion360/installation.md" },
-    { "Environement de travail" = "fusion360/envirenoment.md" },
+    { "1er pas sur Fusion 360" = "fusion360/1er-pas-fusion-360.md" },
+    { "Ressources" = "fusion360/ressources-fusion-360.md" },
   ]},
   { "Fiches de sécurité (FDS) " = "fiches-secu/fiches-secu.md" },
   #{ "Markdown in 5min" = "markdown.md" },
