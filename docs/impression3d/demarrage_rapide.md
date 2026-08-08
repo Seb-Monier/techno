@@ -63,7 +63,7 @@ Cliquer sur l'icône de l'imprimante 3D et sélectionner l'imprimante **X1 Carbo
 ---
  
 #### 4. Ajouter le modèle précédemment téléchargé 
-Si ce n'est pas fait : [Téléchargement du modèle 3D](#itelechargement-du-modele-3d)
+Si ce n'est pas fait : [Téléchargement du modèle 3D](#i-telechargement-du-modele-3d)
 
 Dans la barre d'outils supérieure, cliquez sur l'icône **ajouter** pour importer le modèle 3D.  
 Vous pouvez également faire un glisser-déposer.  
